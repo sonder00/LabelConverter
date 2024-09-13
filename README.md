@@ -29,5 +29,6 @@
 2. 通过以下命令安装依赖：
    ```bash
    pip install -r requirements.txt
-2. 运行程序：
+3. 运行程序：
+   ```bash
    python label_converter.py
