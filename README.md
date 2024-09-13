@@ -31,4 +31,4 @@
    pip install -r requirements.txt
 3. 运行程序：
    ```bash
-   python label_converter.py
+   python LabelConverter.py
